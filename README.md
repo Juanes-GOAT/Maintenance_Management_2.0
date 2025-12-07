@@ -49,5 +49,12 @@ Una vez completado el proceso, encontrarás el ejecutable en la carpeta dist den
 ls dist/
 
 El archivo generado será algo como GestionMantenimiento.exe (en Windows)
+----------------------------------------------------------------------------------
+Ejemplos:
 
 ![image alt](https://github.com/Juanes-GOAT/Maintenance_Management_2.0/blob/dd8febe6418f920401537b76447a2cfd91b52fe1/Equipos.png)
+![image alt](https://github.com/Juanes-GOAT/Maintenance_Management_2.0/blob/635a8daa9ea02379cc3ccc74fb1561427abc4b55/Ordenes%20de%20trabajo.png)
+![image alt](https://github.com/Juanes-GOAT/Maintenance_Management_2.0/blob/635a8daa9ea02379cc3ccc74fb1561427abc4b55/Tecnicos.png)
+![image alt](https://github.com/Juanes-GOAT/Maintenance_Management_2.0/blob/635a8daa9ea02379cc3ccc74fb1561427abc4b55/Planificacion.png)
+![image alt](https://github.com/Juanes-GOAT/Maintenance_Management_2.0/blob/635a8daa9ea02379cc3ccc74fb1561427abc4b55/Reportes.png)
+![image alt](https://github.com/Juanes-GOAT/Maintenance_Management_2.0/blob/635a8daa9ea02379cc3ccc74fb1561427abc4b55/About.png)
