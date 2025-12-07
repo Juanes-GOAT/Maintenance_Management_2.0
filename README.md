@@ -50,3 +50,4 @@ ls dist/
 
 El archivo generado será algo como GestionMantenimiento.exe (en Windows)
 
+![image alt](https://github.com/Juanes-GOAT/Maintenance_Management_2.0/blob/dd8febe6418f920401537b76447a2cfd91b52fe1/Equipos.png)
